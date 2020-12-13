@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="simple_activity">Simple Activity</string>
+    <string name="simple_inten">Simple Inten</string>
+    <string name="inten_with_data">Inten With Data</string>
+    <string name="inten_with_parcelable">Inten With Parcelable</string>
+    <string name="implicit_inten">implicit inten</string>
+    <string name="inten_with_resulut">inten with resulut</string>
+    <string name="nama">Nama</string>
+    <string name="btn_back">back</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="umur">Umur</string>
+</resources>
